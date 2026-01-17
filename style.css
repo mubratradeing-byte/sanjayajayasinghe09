@@ -1,4 +1,17 @@
-/* ===== CSS Variables ===== */
+/* ====* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+= CSS Variables ===== */
 :root {
     --primary-color: #667eea;
     --secondary-color: #764ba2;
