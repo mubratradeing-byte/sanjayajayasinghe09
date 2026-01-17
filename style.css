@@ -1016,4 +1016,27 @@ img {
         var(--dark-border) 100%);
     background-size: 200% 100%;
     animation: shimmer 1.5s infinite;
+}@media (max-width: 768px) {
+
+  body {
+    font-size: 14px;
+  }
+
+  h1 {
+    font-size: 24px;
+  }
+
+  h2 {
+    font-size: 18px;
+  }
+
+  section,
+  .container,
+  .hero {
+    padding: 20px;
+    text-align: center;
+    flex-direction: column;
+  }
+
 }
+
