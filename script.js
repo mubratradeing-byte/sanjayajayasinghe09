@@ -59,7 +59,8 @@ body.dark-theme article,
 body.dark-theme .entry-content {
   background-color: var(--dark-bg-primary);
   color: var(--dark-text-primary);
-}
+}Use Control + Shift + m to toggle the tab key moving focus. Alternatively, use esc then tab to move to the next interactive element on the page.
+
 
 /* Post/page containers */
 body.dark-theme .post,
